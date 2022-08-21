@@ -10,7 +10,6 @@ WEB APP ASP.NET Core 6.0 / SignalR / Javascript / Node.Js
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Machado-code/ChatNetCoreSignalR?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Machado-code/ChatNetCoreSignalR?style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/Machado-code/ChatNetCoreSignalR?style=for-the-badge)
-<img src="exemplo-image.png" alt="exemplo imagem">
 
 > Chat WEB APP
 
